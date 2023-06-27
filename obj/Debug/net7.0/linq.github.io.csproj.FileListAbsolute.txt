@@ -1,0 +1,15 @@
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/linq.github.io.csproj.AssemblyReference.cache
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/linq.github.io.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/linq.github.io.AssemblyInfoInputs.cache
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/linq.github.io.AssemblyInfo.cs
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/linq.github.io.csproj.CoreCompileInputs.cache
+/home/angelgabriel/Documentos/linq.github.io/bin/Debug/net7.0/linq.github.io
+/home/angelgabriel/Documentos/linq.github.io/bin/Debug/net7.0/linq.github.io.deps.json
+/home/angelgabriel/Documentos/linq.github.io/bin/Debug/net7.0/linq.github.io.runtimeconfig.json
+/home/angelgabriel/Documentos/linq.github.io/bin/Debug/net7.0/linq.github.io.dll
+/home/angelgabriel/Documentos/linq.github.io/bin/Debug/net7.0/linq.github.io.pdb
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/linq.github.io.dll
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/refint/linq.github.io.dll
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/linq.github.io.pdb
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/linq.github.io.genruntimeconfig.cache
+/home/angelgabriel/Documentos/linq.github.io/obj/Debug/net7.0/ref/linq.github.io.dll
