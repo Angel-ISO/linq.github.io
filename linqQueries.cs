@@ -14,14 +14,7 @@ public class LinqQueries{
     public IEnumerable<Book> LibrosDespues2000(){
         //Extension method
         //return lstBooks.Where(book => book.PublishedDate.Year > 2000);
-        return from book in lstBooks where book.PublishedDate.Year >2000 select book;
-    }
-      public IEnumerable<Book> LibrosDespuesDe(int year){
-        //Extension method
-        //return lstBooks.Where(book => book.PublishedDate.Year > 2000);
-        return from book in lstBooksBooks
-        where book.PublishedDate.Year > yearI 
-        select book;
+        return from book in lstBooks where book.PublishedDate.Year >200 select book;
     }
     public IEnumerable<Book> LibrosMas250Pag(){
         return from book in lstBooks 
